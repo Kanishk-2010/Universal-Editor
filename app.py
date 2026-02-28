@@ -3,8 +3,7 @@ import google.generativeai as genai
 import yt_dlp
 import moviepy as mp
 from moviepy.video.tools.subtitles import SubtitlesClip
-from moviepy.audio.fx.audio_volumex import audio_volumex
-import os
+from moviepy.audio.fx import MultiplyVolume
 import tempfile
 import cv2
 import numpy as np
