@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 import yt_dlp
-import moviepy.editor as mp
+import moviepy as mp
 from moviepy.video.tools.subtitles import SubtitlesClip
 from moviepy.audio.fx.audio_volumex import audio_volumex
 import os
