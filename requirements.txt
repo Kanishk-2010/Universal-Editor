@@ -5,6 +5,7 @@ yt-dlp
 python-dotenv
 openai-whisper
 torch
-scipy
 librosa
+scipy
+numpy
 opencv-python
