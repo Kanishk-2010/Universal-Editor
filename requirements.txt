@@ -1,5 +1,5 @@
 streamlit
 google-generativeai
-moviepy
+moviepy>=2.0.0
 yt-dlp
 python-dotenv
