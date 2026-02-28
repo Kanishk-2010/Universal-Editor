@@ -3,3 +3,8 @@ google-generativeai
 moviepy>=2.0.0
 yt-dlp
 python-dotenv
+openai-whisper
+torch
+scipy
+librosa
+opencv-python
